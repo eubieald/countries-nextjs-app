@@ -20,3 +20,5 @@ Clone the repository:
 ```bash
 git clone https://github.com/eubieald/countries-nextjs-app.git
 cd countries-nextjs-app
+npm install
+npm run dev
